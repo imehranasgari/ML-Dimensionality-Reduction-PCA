@@ -49,7 +49,7 @@ When working with modern datasets, we often encounter high-dimensional data that
 
 ## 📸 Sample Output
 
-*(You can generate the output plots by running the notebook. Placeholder for your own PCA scatter plot.)*.
+https://miro.medium.com/max/875/1*7jUCr36YguAMKNHTN4Gt8A.png
 
 ---
 
